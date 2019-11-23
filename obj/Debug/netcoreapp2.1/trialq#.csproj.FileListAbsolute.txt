@@ -1,0 +1,11 @@
+C:\Users\tanis\Desktop\trialq#\bin\Debug\netcoreapp2.1\trialq#.deps.json
+C:\Users\tanis\Desktop\trialq#\bin\Debug\netcoreapp2.1\trialq#.runtimeconfig.json
+C:\Users\tanis\Desktop\trialq#\bin\Debug\netcoreapp2.1\trialq#.runtimeconfig.dev.json
+c:\Users\tanis\Desktop\trialq#\bin\Debug\netcoreapp2.1\trialq#.dll
+c:\Users\tanis\Desktop\trialq#\bin\Debug\netcoreapp2.1\trialq#.pdb
+c:\Users\tanis\Desktop\trialq#\obj\Debug\netcoreapp2.1\trialq#.csprojAssemblyReference.cache
+c:\Users\tanis\Desktop\trialq#\obj\Debug\netcoreapp2.1\trialq#.csproj.CoreCompileInputs.cache
+c:\Users\tanis\Desktop\trialq#\obj\Debug\netcoreapp2.1\trialq#.AssemblyInfoInputs.cache
+c:\Users\tanis\Desktop\trialq#\obj\Debug\netcoreapp2.1\trialq#.AssemblyInfo.cs
+c:\Users\tanis\Desktop\trialq#\obj\Debug\netcoreapp2.1\trialq#.dll
+c:\Users\tanis\Desktop\trialq#\obj\Debug\netcoreapp2.1\trialq#.pdb
